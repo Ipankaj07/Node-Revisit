@@ -9,7 +9,6 @@ function App() {
   useEffect(() => {
     axios.get(`${url}/`).then((res) => {
       setTodos(res.data);
-      console.log(res.data);
     });
   }, []);
 
