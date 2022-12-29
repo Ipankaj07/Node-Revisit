@@ -1,0 +1,46 @@
+
+    Method: GET
+    Status: 200 OK
+    Content-Length: 15
+    Time Taken: 20 ms
+    Date: 12/29/2022 5:02:09 PM
+    HTTP Version: 1.1
+    URL: /api
+    ----------------------------------
+    
+    Method: POST
+    Status: 200 OK
+    Content-Length: 16
+    Time Taken: 3 ms
+    Date: 12/29/2022 5:02:13 PM
+    HTTP Version: 1.1
+    URL: /api
+    ----------------------------------
+    
+    Method: PUT
+    Status: 200 OK
+    Content-Length: 15
+    Time Taken: 4 ms
+    Date: 12/29/2022 5:02:15 PM
+    HTTP Version: 1.1
+    URL: /api
+    ----------------------------------
+    
+    Method: DELETE
+    Status: 200 OK
+    Content-Length: 18
+    Time Taken: 2 ms
+    Date: 12/29/2022 5:02:18 PM
+    HTTP Version: 1.1
+    URL: /api
+    ----------------------------------
+    
+    Method: GET
+    Status: 404 Not Found
+    Content-Length: 145
+    Time Taken: 12 ms
+    Date: 12/29/2022 5:02:32 PM
+    HTTP Version: 1.1
+    URL: /random
+    ----------------------------------
+    
