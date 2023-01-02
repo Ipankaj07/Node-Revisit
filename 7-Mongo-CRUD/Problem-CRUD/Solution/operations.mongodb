@@ -280,6 +280,7 @@ db.usersdata.insertMany([{
 // db.usersdata.find().pretty();
 
 /* --------------------------------------------------------------- */
+
 // Run separate queries to find the following:
 
 // 1. All users whose gender is male
