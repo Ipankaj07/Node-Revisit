@@ -1,0 +1,66 @@
+{
+  "students": [
+    {
+      "roll_no": 1,
+      "name": "Rahul",
+      "location": "Delhi",
+      "course": "B.Tech"
+    },
+    {
+      "roll_no": 2,
+      "name": "Raj",
+      "location": "Mumbai",
+      "course": "B.Tech"
+    },
+    {
+      "roll_no": 3,
+      "name": "Ravi",
+      "location": "Delhi",
+      "course": "B.Tech"
+    },
+    {
+      "roll_no": 4,
+      "name": "Rajesh",
+      "location": "Mumbai",
+      "course": "B.Tech"
+    },
+    {
+      "roll_no": 5,
+      "name": "Ramesh",
+      "location": "Delhi",
+      "course": "B.Tech"
+    }
+  ],
+  "teachers": [
+    {
+      "emp_id": 1,
+      "name": "Rahul",
+      "sub": "Maths",
+      "exp": 5
+    },
+    {
+      "emp_id": 2,
+      "name": "Raj",
+      "sub": "Science",
+      "exp": 5
+    },
+    {
+      "emp_id": 3,
+      "name": "Ravi",
+      "sub": "Maths",
+      "exp": 5
+    },
+    {
+      "emp_id": 4,
+      "name": "Rajesh",
+      "sub": "Science",
+      "exp": 5
+    },
+    {
+      "emp_id": 5,
+      "name": "Ramesh",
+      "sub": "Maths",
+      "exp": 5
+    }
+  ]
+}
