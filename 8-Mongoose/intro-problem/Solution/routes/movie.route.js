@@ -37,7 +37,9 @@ movieRouter.get("/", async (req, res) => {
       limit: limit,
       movies: movies,
     });
-  } catch (err) {}
+  } catch (err) {
+    res.status(500).json({ message: err.message });
+  }
 });
 
 movieRouter.get("/:id", async (req, res) => {
